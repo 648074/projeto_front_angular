@@ -1,0 +1,12 @@
+
+{
+  "livros": [
+    { "id": 1, "title": "Terror", "author": "Eumesmo" },
+    { "id": 2, "title": "Comedia", "author": "Eumesmo" },
+    { "id": 3, "title": "Manoel Gomes", "author": "eumesmo" },
+    { "id": 4, "title": "Raul Seixas", "author": "eumesmo" },
+    { "id": 5, "title": "Rambo", "author": "Eumesmo" },
+    { "id": 6, "title": "Dia das Bruxa", "author": "eumesmo" }
+  ]
+
+}
